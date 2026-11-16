@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="360-ru" tvg-name="360.ru" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/892/79.png" group-title="Новости",360.ru
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360-ru-novosti" tvg-name="360.ru Новости" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/892/85.png" group-title="Новости",360.ru Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="arktika-24" tvg-name="Арктика 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/065/98.png" group-title="Новости",Арктика 24
+https://live-gtrk.smotrim.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+#EXTINF:-1 tvg-id="bashkortostan-24" tvg-name="Башкортостан 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/056/82.png" group-title="Новости",Башкортостан 24
+https://live-gtrk.smotrim.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 tvg-id="volgograd-24" tvg-name="Волгоград 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/066/48.png" group-title="Новости",Волгоград 24
+https://live-gtrk.smotrim.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
+#EXTINF:-1 tvg-id="vostok-24" tvg-name="Восток 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/117/13.png" group-title="Новости",Восток 24
+https://live-gtrk.smotrim.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+#EXTINF:-1 tvg-id="zapad-24" tvg-name="Запад 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/123/50.png" group-title="Новости",Запад 24
+https://live-gtrk.smotrim.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 tvg-id="kavkaz-24" tvg-name="Кавказ 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/065/88.png" group-title="Новости",Кавказ 24
+https://live-gtrk.smotrim.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 tvg-id="lentv-24" tvg-name="ЛенТВ 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/892/64.png" group-title="Новости",ЛенТВ 24
+https://stream.smotrim.ru/hls/lentv24/playlist.m3u8?entity=channel&id=275&sign=2b38bf6446fb73e2168144c12a7a3d13
+#EXTINF:-1 tvg-id="mir" tvg-name="МИР" group-title="Новости",МИР
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="moskva-24" tvg-name="Москва 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/892/61.png" group-title="Новости",Москва 24
+https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
+#EXTINF:-1 tvg-id="nizhniy-novgorod-24" tvg-name="Нижний Новгород 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/065/35.png" group-title="Новости",Нижний Новгород 24
+https://live-gtrk.smotrim.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" group-title="Новости",НТВ Право
+http://cdn.ntv.ru/th_pravo/mono.m3u8
+#EXTINF:-1 tvg-id="rossiya-24" tvg-name="Россия 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/150/492/17.png" group-title="Новости",Россия 24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-id="samara-24" tvg-name="Самара 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/117/03.png" group-title="Новости",Самара 24
+https://live-gtrk.smotrim.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-id="sankt-peterburg" tvg-name="Санкт-Петербург" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/892/62.png" group-title="Новости",Санкт-Петербург
+https://stream.smotrim.ru/hls/ext_spbtv/playlist.m3u8?entity=channel&id=262&sign=5822ba061981fd332935019e895d34ab
+#EXTINF:-1 tvg-id="sibir-24" tvg-name="Сибирь 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/116/94.png" group-title="Новости",Сибирь 24
+https://live-gtrk.smotrim.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="solovyov-live" tvg-name="Соловьёв Live" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/901/590/7.png" group-title="Новости",Соловьёв Live
+https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
+#EXTINF:-1 tvg-id="ural-24" tvg-name="Урал 24" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/042/42.png" group-title="Новости",Урал 24
+https://live-gtrk.smotrim.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 tvg-id="12-kanal" tvg-name="12 канал" group-title="Федеральные",12 канал
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="7-tv" tvg-name="7 TV" group-title="Федеральные",7 TV
+https://v4.proofix.ru/7tv-live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="anime-tv" tvg-name="Anime TV" group-title="Федеральные",Anime TV
+https://mhd116.iptv2022.com/p/_0F6S76izP6sZPGeL-Scdg,1696280410/streaming/anime_tv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда" group-title="Федеральные",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="krasnaya-liniya" tvg-name="Красная линия" group-title="Федеральные",Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 tvg-id="moskva-doverie" tvg-name="Москва. Доверие" group-title="Федеральные",Москва. Доверие
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-id="ntv-stil" tvg-name="НТВ Стиль" group-title="Федеральные",НТВ Стиль
+http://cdn.ntv.ru/th_style/mono.m3u8
+#EXTINF:-1 tvg-id="pervyi-yaroslavskii" tvg-name="Первый Ярославский" group-title="Федеральные",Первый Ярославский
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?offset=-4209&utcstart=1687162210
+#EXTINF:-1 tvg-id="rossiya-1" tvg-name="Россия 1" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/901/583/3.png" group-title="Федеральные",Россия 1
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-evropa" tvg-name="РТР-Планета. Европа" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/901/596/9.png" group-title="Федеральные",РТР-Планета. Европа
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
+#EXTINF:-1 tvg-id="teledom" tvg-name="Теледом" group-title="Федеральные",Теледом
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-id="8-kanal" tvg-name="8 канал" group-title="Беларусь",8 канал
+https://v4.proofix.ru/8tv-europe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="belarus-1" tvg-name="Беларусь 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/960px-Belarus_1_logo.svg.png" group-title="Беларусь",Беларусь 1
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus-2" tvg-name="Беларусь 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Belarus_2_logo.svg/960px-Belarus_2_logo.svg.png" group-title="Беларусь",Беларусь 2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus-3" tvg-name="Беларусь 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Belarus_3_logo.svg/960px-Belarus_3_logo.svg.png" group-title="Беларусь",Беларусь 3
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus-4-vitebsk" tvg-name="Беларусь 4 Витебск" tvg-logo="https://i.imgur.com/TW6Ap71.png" group-title="Беларусь",Беларусь 4 Витебск
+https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus-5" tvg-name="Беларусь 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/960px-Belarus_5_logo.svg.png" group-title="Беларусь",Беларусь 5
+https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="belarus-24" tvg-name="Беларусь 24" group-title="Беларусь",Беларусь 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pervyy-informatsionnyy" tvg-name="Первый информационный" tvg-logo="https://smotret.tv/images/pervyj-informacionnyj.webp" group-title="Беларусь",Первый информационный
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="stv" tvg-name="СТВ" tvg-logo="https://ctv.by/img/logo.png" group-title="Беларусь",СТВ
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="1mus" tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Беларусь",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="quadro-4k" tvg-name="QUADRO 4K" group-title="Познавательные",QUADRO 4K
+http://cdn-lb.iptv2022.com/p/-p1SMgaFO9mVI1IVzZHuzQ,1680809251/streaming/quadrohd/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bolshaya-aziya" tvg-name="Большая Азия" group-title="Познавательные",Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ege" tvg-name="ЕГЭ" group-title="Познавательные",ЕГЭ
+http://cdn-lb.iptv2022.com/p/IwYtQ4vwaX-7P5Xzn5m_vg,1672887201/streaming/ege/324/1/index.m3u8
+#EXTINF:-1 tvg-id="zhivi-aktivno" tvg-name="Живи Активно" group-title="Познавательные",Живи Активно
+http://cdn-lb.iptv2022.com/p/Pu9XpQ9GGz5imqWgbgUp9A,1674889742/streaming/zhivi_aktivno/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kolyma-plyus" tvg-name="Колыма-Плюс" group-title="Познавательные",Колыма-Плюс
+https://tw2ywfm7jbp.a.trbcdn.net/livemaster/7phjk_live-papd7z4v92.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="krik-tv" tvg-name="Крик ТВ" group-title="Познавательные",Крик ТВ
+https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 tvg-id="neizvestnaya-planeta" tvg-name="Неизвестная планета" group-title="Познавательные",Неизвестная планета
+http://cdn-lb.iptv2022.com/p/f6YQbOMgL1h143iczlFg-g,1672887959/streaming/np/324/1/index.m3u8
+#EXTINF:-1 tvg-id="pes-i-ko" tvg-name="Пёс и Ко" group-title="Познавательные",Пёс и Ко
+http://cdn-lb.iptv2022.com/p/rSW2wkmGFuApf-K_Pu6UvQ,1674888325/streaming/pesiko/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="pro-biznes" tvg-name="Про Бизнес" group-title="Познавательные",Про Бизнес
+http://cdn-lb.iptv2022.com/p/r5VKF47MLTH0dMbIx3nPQg,1672887902/streaming/probusiness/324/1/index.m3u8
+#EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" group-title="Познавательные",Просвещение
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="rossiya-k" tvg-name="Россия К" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/153/141/76.jpg" group-title="Познавательные",Россия К
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-fakty" tvg-name="Смотрим 100% Факты" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/885/32.png" group-title="Познавательные",Смотрим 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist.m3u8?entity=channel&id=395&sign=1dc4ca8fb01e025545b0e6e70164cbf6
+#EXTINF:-1 tvg-id="teo-tv" tvg-name="Тео ТВ" group-title="Познавательные",Тео ТВ
+http://cdn-lb.iptv2022.com/p/a44ETRHStpWIVIhyOgjrbA,1681669001/streaming/teo-tv/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="terra-inkognita" tvg-name="Терра Инкогнита" group-title="Познавательные",Терра Инкогнита
+http://cdn-lb.iptv2022.com/p/UOWMtikO0BkxaT6nBUr9wQ,1672887131/streaming/terra/324/1/index.m3u8
+#EXTINF:-1 tvg-id="uspeh" tvg-name="Успех" group-title="Познавательные",Успех
+http://cdn-lb.iptv2022.com/p/vvJbnFUd46Vr2EnzYD7h5Q,1674888488/streaming/uspeh/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="tsentralnoe-televidenie" tvg-name="Центральное телевидение" group-title="Познавательные",Центральное телевидение
+http://cdn-lb.iptv2022.com/p/HDz-Y-eDaZi4o47pShlhWA,1672887357/streaming/centrtv/324/1/index.m3u8
+#EXTINF:-1 tvg-id="eho-tv" tvg-name="Эхо ТВ" group-title="Познавательные",Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="anime-kids" tvg-name="Anime Kids" group-title="Детские",Anime Kids
+https://mhd116.iptv2022.com/p/9JrQ4Dkt_VIxy9KycEVIHg,1696280411/streaming/anime_kids/324/1/index.m3u8
+#EXTINF:-1 tvg-id="baby-time-by-bridge" tvg-name="Baby Time by Bridge" group-title="Детские",Baby Time by Bridge
+http://cdn-lb.iptv2022.com/p/iBKmDHEVgOmwzgZf4aa1Rg,1672887638/streaming/baby_time/324/1/index.m3u8
+#EXTINF:-1 tvg-id="universmotri" tvg-name="Universmotri" group-title="Детские",Universmotri
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="kapitan-fantastika" tvg-name="Капитан Фантастика" group-title="Детские",Капитан Фантастика
+https://cdn-lb.iptv2022.com/p/13QoSLqoqInfUh8H8cUhaQ,1688590814/streaming/gingerhd/324/1/tracks-v5a1/index.m3u8
+#EXTINF:-1 tvg-id="multsezon" tvg-name="МультСезон" group-title="Детские",МультСезон
+http://cdn-lb.iptv2022.com/p/RdznzVgM1ifqZb8HlQw6ng,1616830737/streaming/multsezon/324/1/index.m3u8
+#EXTINF:-1 tvg-id="pingvin-lolo" tvg-name="Пингвин ЛОЛО" group-title="Детские",Пингвин ЛОЛО
+http://cdn-lb.iptv2022.com/p/-rQJLeCWiRAa76M6nNc5pQ,1672938535/streaming/pingvin/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="radost-moya" tvg-name="Радость моя" group-title="Детские",Радость моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="skazki-zaiki" tvg-name="Сказки Зайки" group-title="Детские",Сказки Зайки
+http://cdn-lb.iptv2022.com/p/JCO-85ZwP8a2Xj7xVrXt3A,1677498229/streaming/zaj/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" tvg-name="Смотрим 100% Детское" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/885/19.png" group-title="Детские",Смотрим 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist.m3u8?entity=channel&id=397&sign=3f2815ff49d992157fb3d2e817d17cfa
+#EXTINF:-1 tvg-id="sovetskie-multfilmy" tvg-name="Советские мультфильмы" group-title="Детские",Советские мультфильмы
+http://cdn-lb.iptv2022.com/p/ioXVvgUFwYgyzU5ymjpdRw,1674888525/streaming/rusmult/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="312-kino" tvg-name="312 Кино" group-title="Фильмы",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="novella-tv" tvg-name="Novella TV" group-title="Фильмы",Novella TV
+https://mhd116.iptv2022.com/p/prXVPY4lemQXr92z7woCnA,1696280410/streaming/telenovella/324/1/index.m3u8
+#EXTINF:-1 tvg-id="kino-1" tvg-name="Кино 1" group-title="Фильмы",Кино 1
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="kinomenyu" tvg-name="КиноМеню" group-title="Фильмы",КиноМеню
+http://cdn-lb.iptv2022.com/p/uSOjPXzOPozRJK5OvyoooA,1674072031/streaming/kinomenu/324/1/index.m3u8
+#EXTINF:-1 tvg-id="kinosezon" tvg-name="Киносезон" group-title="Фильмы",Киносезон
+http://cdn-lb.iptv2022.com/p/4UgQj2YCDFs9_TAa-5JE4w,1682616396/streaming/kinosezon/324/1/index.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" tvg-name="НТВ Сериал" group-title="Фильмы",НТВ Сериал
+http://cdn.ntv.ru/th_serial/mono.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-klassika" tvg-name="Смотрим 100% Классика" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/885/25.png" group-title="Фильмы",Смотрим 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist.m3u8?entity=channel&id=396&sign=cdfd92654242e9941ad31b03459fd34b
+#EXTINF:-1 tvg-id="smotrim-100-lyubov" tvg-name="Смотрим 100% Любовь" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/885/20.png" group-title="Фильмы",Смотрим 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist.m3u8?entity=channel&id=394&sign=c87e698e917734d17feb8a476630eb24
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-name="Смотрим 100% Мужское" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/885/22.png" group-title="Фильмы",Смотрим 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist.m3u8?entity=channel&id=398&sign=2511a45ee2ce6981dce0de5a9e423490
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" tvg-name="Смотрим 100% Праздник" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/885/28.png" group-title="Фильмы",Смотрим 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist.m3u8?entity=channel&id=399&sign=8e6c4c2402fda78775905b18525359fa
+#EXTINF:-1 tvg-id="tvoe-tv" tvg-name="Твое ТВ" group-title="Фильмы",Твое ТВ
+https://tvoetv.space/tvoetv/video.m3u8
+#EXTINF:-1 tvg-id="chestnyy-detektiv" tvg-name="Честный детектив" tvg-logo="https://cdn.smotrim.ru/photobank/prod/large/152/885/33.png" group-title="Фильмы",Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
